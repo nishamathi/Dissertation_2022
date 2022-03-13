@@ -1,7 +1,7 @@
 # Dissertation_2022
 This repository contains the python code used in my dissertation work as part of my PhD at UT Austin.
 
-Data Source: Medicaid Prescription CLaims data (outpatient settings only) and Ground truth data (proprietary)
+<b>Data Source</b>: Medicaid Prescription CLaims data (outpatient settings only) and Ground truth data (proprietary)
 
 Code files: Order of execution is based on suffix of a code file name. Start with _01 and so on..
 
